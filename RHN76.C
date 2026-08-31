@@ -1,4 +1,4 @@
-Program-1: Write a Program to make use of basic I/Q functions using different data types.
+Program-2: Write a Program to make use of basic I/Q functions using different data types.
 
 Solution-2: User Defined Values
 #include <stdio.h>
